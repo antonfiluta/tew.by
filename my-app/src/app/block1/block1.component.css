@@ -1,0 +1,11 @@
+p {
+   width: 20vw;
+   border: 1px solid black;
+   padding: 3vw;
+   text-align: center;
+   margin: 2vw 0;
+}
+
+.block1-root {
+    display: flex;
+}
